@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Software Engineer passionate about building practical solutions through technology, innovation, and continuous learning.
+Software Engineer, building practical solutions through technology, innovation, and continuous learning.
 
 🔭 &nbsp;I'm currently working on **Building software projects and improving my development skills.**  
 🌱 &nbsp;I'm currently learning **Backend development, frontend development, and AI.**  
